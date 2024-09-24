@@ -12,7 +12,7 @@ function range(start, end) {
   return result;
 }
 
-octoberDays = range(1, 16);
+octoberDays = range(1, 17);
 septemberDays = range(16, 30);
 
 const checkIfPassed = (day, month) => {
